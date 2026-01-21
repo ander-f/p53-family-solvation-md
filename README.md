@@ -6,4 +6,5 @@ and **scripts** for microsecond-long molecular dynamics simulations of the p53 f
 ## Directory structure
 - `analyses/`: solvation analysis results
 - `coordinates/`: initial and final PDB coordinate files
+- `mdp_files/`:  mdp files for setting up simulations
 - `scripts/`: analysis scripts
